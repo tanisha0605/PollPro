@@ -5,7 +5,7 @@
  * Survey Distribution: Share surveys with your target audience through survey codes.
  * Response Collection: Collect responses from participants and view them in real-time.
  * Analytics: Analyze survey results with built-in data visualization tools.
- * User Management: Manage users, roles, and permissions to collaborate effectively.
+ 
 ## How to Use ##
 1. Clone the repository :
    ```bash
