@@ -30,7 +30,7 @@ public class Login {
         password.setBounds(300, 100, 100, 20);
         frame.add(password);
 
-        JTextField passText = new JTextField();
+        JPasswordField passText = new JPasswordField();
         passText.setBounds(380, 100, 150, 20);
         frame.add(passText);
 
