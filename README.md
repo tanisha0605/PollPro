@@ -1,4 +1,4 @@
-# OnlineSurveySystem - PollPro#
+# OnlineSurveySystem - PollPro #
  A simple survey system with basic functionalities using Java Swing GUI and MySQL
 ## Features ##
  * Survey Creation: Easily create custom surveys with a user-friendly interface.
